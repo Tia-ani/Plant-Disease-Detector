@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Data
+data/
+plantvillage dataset/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
